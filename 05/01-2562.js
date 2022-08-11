@@ -14,7 +14,6 @@ function solution(input) {
       maxIdx = i;
     }
   }
-
   console.log(maxnum);
   console.log(maxIdx + 1);
 }
